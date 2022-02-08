@@ -1,0 +1,28 @@
+.container{
+    margin: auto;
+    padding: auto;
+    background-color: teal;
+    text-align: center;
+}
+
+.container label{
+    font-size: large;
+}
+
+body{
+    background-color: tan;
+}
+
+.container input{
+
+    font-size: large;
+    margin-left: 25px;
+}
+
+#btn button{
+   font-size: 30px;
+   color: thistle;
+   text-align: center;
+   text-decoration: none;
+
+}
